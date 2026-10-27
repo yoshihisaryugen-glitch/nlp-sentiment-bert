@@ -1,0 +1,9 @@
+.git
+.ipynb_checkpoints
+**/__pycache__
+**/*.pyc
+data
+weights
+vocab
+.vector_cache
+.data
